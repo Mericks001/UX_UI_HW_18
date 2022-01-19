@@ -1,0 +1,555 @@
+/* screen - about-me */
+
+.about-me {
+  align-items: center;
+  background-color: #dddddd;
+  display: flex;
+  flex-direction: column;
+  height: 2769px;
+  width: 1440px;
+}
+
+.about-me .overlap-group3 {
+  align-items: center;
+  background-color: #373737;
+  display: flex;
+  flex-direction: column;
+  margin-top: -2px;
+  min-height: 1011px;
+  padding: 37.0px 25px;
+  width: 1440px;
+}
+
+.about-me .flex-row {
+  align-items: flex-start;
+  align-self: flex-start;
+  display: flex;
+  min-width: 1276px;
+}
+
+.about-me .logo {
+  height: 71px;
+  width: 102px;
+}
+
+.about-me .mitch-erickson {
+  color: var(--white);
+  font-family: var(--font-family-oswald);
+  font-size: var(--font-size-xl);
+  font-weight: 300;
+  letter-spacing: 0;
+  margin-left: 22px;
+  margin-top: 5.0px;
+  min-height: 50px;
+  min-width: 209px;
+}
+
+.about-me .prime-nav {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  height: 41px;
+  margin-bottom: 10.0px;
+  margin-left: 208px;
+  min-width: 735px;
+}
+
+.about-me .about-me-1 {
+  letter-spacing: 0;
+  min-height: 41px;
+  min-width: 102px;
+}
+
+.about-me .my-projects {
+  letter-spacing: 0;
+  margin-left: 95px;
+  min-height: 41px;
+  min-width: 128px;
+}
+
+.about-me .inspirations {
+  letter-spacing: 0;
+  margin-left: 93px;
+  min-height: 41px;
+  min-width: 129px;
+}
+
+.about-me .place {
+  letter-spacing: 0;
+  margin-left: 95px;
+  min-height: 41px;
+}
+
+.about-me .overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+  height: 629px;
+  margin-left: 42.0px;
+  margin-top: 55px;
+  min-width: 1228px;
+}
+
+.about-me .overlap-group1 {
+  height: 607px;
+  position: relative;
+  width: 577px;
+}
+
+.about-me .x20220111_144531-1 {
+  height: 579px;
+  left: 22px;
+  object-fit: cover;
+  position: absolute;
+  top: 28px;
+  width: 548px;
+}
+
+.about-me .rectangle-76 {
+  height: 579px;
+  left: 391px;
+  position: absolute;
+  top: 28px;
+  width: 186px;
+}
+
+.about-me .rectangle-77 {
+  height: 607px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 178px;
+}
+
+.about-me .overlap-group2 {
+  align-self: flex-end;
+  height: 623px;
+  margin-left: 123px;
+  position: relative;
+  width: 528px;
+}
+
+.about-me .mitch-erickson-1 {
+  color: var(--white);
+  font-family: var(--font-family-oswald);
+  font-size: var(--font-size-xxxl);
+  font-weight: 400;
+  left: 113px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+}
+
+.about-me .hello-i-am-i-am-a-u {
+  color: var(--white);
+  font-family: var(--font-family-oswald);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 47px;
+  width: 528px;
+}
+
+.about-me .resume-button {
+  align-items: flex-start;
+  background-color: var(--white);
+  box-shadow: 0px 4px 11px #000000bf;
+  display: flex;
+  height: 90px;
+  margin-top: 80px;
+  min-width: 300px;
+  padding: 18px 95px;
+}
+
+.about-me .resume {
+  color: var(--black);
+  font-family: var(--font-family-oswald);
+  font-size: var(--font-size-xxl);
+  font-weight: 500;
+  letter-spacing: 0;
+  min-height: 53px;
+}
+
+.about-me .skills {
+  align-items: flex-end;
+  display: flex;
+  height: 498px;
+  margin-right: 40.0px;
+  margin-top: 46px;
+  min-width: 1232px;
+}
+
+.about-me .flex-col {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  min-height: 498px;
+  width: 369px;
+}
+
+.about-me .title {
+  align-self: flex-start;
+  color: var(--black);
+  font-family: var(--font-family-oswald);
+  font-size: var(--font-size-xxxxl);
+  font-weight: 600;
+  letter-spacing: 0;
+  min-height: 107px;
+}
+
+.about-me .navigation-organization {
+  letter-spacing: 0;
+  margin-top: 46px;
+  min-height: 41px;
+  width: 315px;
+}
+
+.about-me .organization-is-an-i {
+  letter-spacing: 0;
+  margin-top: 106px;
+  min-height: 198px;
+  width: 315px;
+}
+
+.about-me .design-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 113px;
+  min-height: 345px;
+  width: 326px;
+}
+
+.about-me .appwebsite-design {
+  align-self: flex-end;
+  letter-spacing: 0;
+  min-height: 41px;
+  width: 315px;
+}
+
+.about-me .i-design-based-on-w {
+  letter-spacing: 0;
+  margin-top: 106px;
+  min-height: 198px;
+  width: 315px;
+}
+
+.about-me .user-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 33px;
+  margin-left: 95px;
+  min-height: 312px;
+  width: 315px;
+}
+
+.about-me .user-researchtesting {
+  letter-spacing: 0;
+  min-height: 41px;
+  width: 315px;
+}
+
+.about-me .my-approach-to-user {
+  letter-spacing: 0;
+  margin-top: 106px;
+  min-height: 165px;
+  width: 315px;
+}
+
+.about-me .overlap-group4 {
+  align-items: flex-end;
+  background-color: #0101011a;
+  display: flex;
+  flex-direction: column;
+  margin-right: 3.0px;
+  margin-top: 61px;
+  min-height: 181px;
+  padding: 19px 132px;
+  width: 1437px;
+}
+
+.about-me .tools-i-know {
+  align-self: center;
+  letter-spacing: 0;
+  margin-left: 21.0px;
+  min-height: 41px;
+  width: 158px;
+}
+
+.about-me .flex-row-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 72px;
+  margin-top: 25px;
+  min-width: 1167px;
+}
+
+.about-me .in-vision-google-drive {
+  letter-spacing: 0;
+  min-height: 72px;
+  width: 171px;
+}
+
+.about-me .paper-and-pencil-adobe-xd {
+  letter-spacing: 0;
+  margin-left: 46px;
+  min-height: 72px;
+  width: 203px;
+}
+
+.about-me .photoshop-adobe-illustrator {
+  letter-spacing: 0;
+  margin-left: 46px;
+  min-height: 72px;
+  width: 195px;
+}
+
+.about-me .figma-adobe-after-effects {
+  letter-spacing: 0;
+  margin-left: 46px;
+  min-height: 72px;
+  width: 232px;
+}
+
+.about-me .google-surveys {
+  letter-spacing: 0;
+  margin-left: 31px;
+  min-height: 36px;
+  width: 197px;
+}
+
+.about-me .overlap-group5 {
+  height: 760px;
+  margin-right: 1.0px;
+  margin-top: 61px;
+  position: relative;
+  width: 1313px;
+}
+
+.about-me .projects-image {
+  align-items: flex-end;
+  display: flex;
+  height: 289px;
+  left: 0;
+  min-width: 1313px;
+  position: absolute;
+  top: 153px;
+}
+
+.about-me .image-7 {
+  height: 288px;
+  object-fit: cover;
+  width: 425px;
+}
+
+.about-me .website-search-gif-3 {
+  height: 288px;
+  margin-left: 17px;
+  object-fit: cover;
+  width: 427px;
+}
+
+.about-me .image-4 {
+  height: 289px;
+  margin-left: 16px;
+  object-fit: cover;
+  width: 428px;
+}
+
+.about-me .my-work {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 21px;
+  min-height: 760px;
+  position: absolute;
+  top: 0;
+  width: 1249px;
+}
+
+.about-me .my-work-1 {
+  color: var(--black);
+  font-family: var(--font-family-oswald);
+  font-size: var(--font-size-xxxxl);
+  font-weight: 600;
+  letter-spacing: 0;
+  min-height: 107px;
+}
+
+.about-me .my-work-text {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  height: 272px;
+  margin-right: -10px;
+  margin-top: 381px;
+  min-width: 1235px;
+}
+
+.about-me .overlap-group {
+  height: 236px;
+  position: relative;
+  width: 318px;
+}
+
+.about-me .syte-the-street-art-app {
+  left: 29px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+}
+
+.about-me .this-was-a-group-pro {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 56px;
+  width: 318px;
+}
+
+.about-me .red-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 133px;
+  min-height: 272px;
+  width: 328px;
+}
+
+.about-me .nami-texas-website-redesign {
+  letter-spacing: 0;
+  min-height: 41px;
+}
+
+.about-me .our-team-had-redone {
+  align-self: flex-end;
+  letter-spacing: 0;
+  margin-top: 15px;
+  min-height: 216px;
+  width: 318px;
+}
+
+.about-me .government-container {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-left: 118px;
+  min-height: 272px;
+  width: 326px;
+}
+
+.about-me .government-website-overhaul {
+  letter-spacing: 0;
+  min-height: 41px;
+  min-width: 326px;
+}
+
+.about-me .i-chose-a-government {
+  letter-spacing: 0;
+  margin-top: 15px;
+  min-height: 216px;
+  width: 311px;
+}
+
+.about-me .footer {
+  align-items: flex-start;
+  background-color: #010101;
+  display: flex;
+  height: 97px;
+  margin-top: 56px;
+  min-width: 1440px;
+  padding: 23px 36px;
+}
+
+.about-me .instagram-negative {
+  align-items: flex-start;
+  display: flex;
+  overflow: hidden;
+  width: 48px;
+}
+
+.about-me .group {
+  align-items: flex-start;
+  background-image: url(../img/vector@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 48px;
+  justify-content: flex-end;
+  margin-top: 0;
+  min-width: 48px;
+  padding: 7.7px 7.7px;
+}
+
+.about-me .vector-container {
+  height: 29px;
+  position: relative;
+  width: 29px;
+}
+
+.about-me .vector {
+  height: 26px;
+  left: 0;
+  position: absolute;
+  top: 3px;
+  width: 26px;
+}
+
+.about-me .vector-1 {
+  height: 7px;
+  left: 22px;
+  position: absolute;
+  top: 0;
+  width: 7px;
+}
+
+.about-me .google-negative {
+  align-items: flex-start;
+  display: flex;
+  height: 48px;
+  margin-left: 65px;
+  overflow: hidden;
+  width: 48px;
+}
+
+.about-me .union {
+  height: 49px;
+  margin-top: -0.5px;
+  width: 48px;
+}
+
+.about-me .linked-in-negative {
+  background-image: url(../img/vector-3@2x.svg);
+  background-size: 100% 100%;
+  height: 48px;
+  margin-left: 65px;
+  width: 48px;
+}
+
+.about-me .resume-1 {
+  align-self: flex-end;
+  letter-spacing: 0;
+  margin-bottom: 2px;
+  margin-left: 172px;
+  min-height: 41px;
+  min-width: 86px;
+}
+
+.about-me .email-me {
+  align-self: flex-end;
+  letter-spacing: 0;
+  margin-bottom: 2px;
+  margin-left: 266px;
+  min-height: 41px;
+  min-width: 98px;
+}
+
+.about-me .linkedin {
+  align-self: flex-end;
+  letter-spacing: 0;
+  margin-bottom: 2px;
+  margin-left: 267px;
+  min-height: 41px;
+  min-width: 92px;
+}
